@@ -5,7 +5,7 @@ define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'username');
 define('DB_PASSWORD', 'password');
 define('DB_DATABASE', 'databasename');
-define("BASE_URL", "http://localhost/PHPLoginHash/"); // Eg. http://yourwebsite.com
+define("BASE_URL", "http://localhost/LoginSystemWithPHP/"); // Eg. http://yourwebsite.com
 
 
 function getDB()
